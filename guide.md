@@ -625,7 +625,7 @@ Some common request information is available at `env.request.*`:
 - **headers** - a hash containing relevant request header information
 - **body** - the request body
 - **version** - the HTTP version
-  - e.g. `HTTP/1.1`
+  - e.g. `http://crystal-lang.org/api/HTTP/1.1`
 - **path** - the uri path
   - e.g. `http://kemalcr.com/docs/context?lang=cr` => `/docs/context`
 - **resource** - the uri path and query params
