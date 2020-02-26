@@ -21,6 +21,8 @@ nav_bars:
     url: "/guide"
   - title: "Cookbook"
     url: "/cookbook/hello_world"
+  - title: "API"
+    url: "/docs"
   - title: "Blog"
     url: "/blog"
   - title: "Community"
